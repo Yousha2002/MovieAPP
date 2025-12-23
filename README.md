@@ -82,32 +82,6 @@ a clean and user-friendly UI.
 
 <hr/>
 
-<h2>📁 Project Structure</h2>
-
-<pre>
-Movie-App
-│
-├── src
-│   ├── components
-│   │   ├── MovieCard.jsx
-│   │   ├── MovieList.jsx
-│   │   └── Navbar.jsx
-│   │
-│   ├── pages
-│   │   ├── Home.jsx
-│   │   └── MovieDetail.jsx
-│   │
-│   ├── services
-│   │   └── api.js
-│   │
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── public
-└── package.json
-</pre>
-
-<hr/>
 
 <h2>⚙️ Installation & Setup</h2>
 
